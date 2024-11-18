@@ -1,4 +1,4 @@
-## NAME: kancharla Narmadha
+## NAME: Kancharla Narmadha
 ## REG. NO. : 212222110016
 ## Monitoring-distance-value-in-Thing-speak-cloud-using-ultrasonic-sensor-and-ESP32-controller
 
